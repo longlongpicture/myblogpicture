@@ -1,2 +1,2 @@
 # myblogpicture
-博客里的技术图片
+博客里的图片
